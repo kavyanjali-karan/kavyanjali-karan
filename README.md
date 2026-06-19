@@ -18,7 +18,7 @@
 
 I turn raw, messy data into decisions that businesses can act on — and I deploy the work so stakeholders use it without a data team in the room.
 
-**8 analytics systems shipped and live.** Not notebooks. Not screenshots. Working Streamlit apps with documented business findings and ranked action briefs.
+**6+ analytics systems shipped and live.** Not notebooks. Not screenshots. Working Streamlit apps with documented business findings and ranked action briefs.
 
 The through-line: **business question → structured analysis → quantified answer → prioritised action list.** That is the only output that matters.
 
