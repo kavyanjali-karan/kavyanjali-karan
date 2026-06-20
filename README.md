@@ -69,7 +69,7 @@ Excel      PivotTables · Power Query · XLOOKUP · INDEX/MATCH · dashboard rep
 | DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
 | Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
 | SQL | HackerRank | 2025 |
-| SQL | LeetCode | 2026 |
+| SQL 50 | LeetCode | 2026 |
 
 ---
 
