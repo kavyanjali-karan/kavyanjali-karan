@@ -7,8 +7,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/kavyanjali-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karankavyanjali77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HackerRank_SQL-Gold_Badge-FFD700?style=flat&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/HackerRank_SQL-FFD700?style=flat&logo=hackerrank"/>
   <img src="https://img.shields.io/badge/McKinsey_Forward-Selected_2026-1A1A2E?style=flat"/>
+  <img src="https://img.shields.io/badge/LeetCode_SQL_50-FDD700?style=flat&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Google_GenAI_APAC-Selected_2026-4285F4?style=flat"/>
 </p>
 
@@ -67,7 +68,8 @@ Excel      PivotTables · Power Query · XLOOKUP · INDEX/MATCH · dashboard rep
 | Gen AI Academy APAC — Selected | Google | 2026 |
 | DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
 | Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
-| SQL Gold Badge | HackerRank | 2025 |
+| SQL | HackerRank | 2025 |
+| SQL | LeetCode | 2026 |
 
 ---
 
