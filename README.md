@@ -1,8 +1,7 @@
-```markdown
 <h1 align="center">Kavyanjali Karan</h1>
 
 <p align="center">
-  <strong>Business Intelligence Engineering · SQL · Python · Power BI · Reporting Systems</strong><br/>
+  <strong>Business Intelligence · SQL · Python · Power BI · Reporting Systems</strong><br/>
   B.Tech Computer Science — ITER, SOA University (2027) · Bhubaneswar, India · Open to Relocate
 </p>
 
@@ -21,64 +20,47 @@
 
 Business Intelligence starts long before dashboards.
 
-I'm a Computer Science student building production-style Business Intelligence reporting systems that transform operational data into reporting models businesses can trust. My work focuses on SQL transformation, Python ETL, dimensional modeling, KPI governance, semantic modeling, and executive reporting—because reliable reporting begins with well-designed data, not visualizations.
+I'm a Computer Science student building production-style Business Intelligence reporting systems that transform operational data into reliable reporting assets through SQL transformation, Python ETL, dimensional modeling, KPI governance, semantic modeling, and engineering documentation.
 
-Across every repository, the engineering approach remains consistent:
-
-**Operational Data → SQL Transformation → Curated Analytical Datasets → Dimensional Modeling → Semantic Modeling → Executive Reporting**
+Across my repositories, the focus remains consistent: preparing trusted analytical datasets that support business metrics, executive reporting, and recurring business reviews. The dashboard is the final layer—not the starting point.
 
 ---
 
 ## Featured Repositories
 
-| Repository | Business Problem | Reporting Outcome |
+| Repository | Business Focus | Reporting Outcome |
 |---|---|---|
-| **Customer Retention Intelligence Platform** | How can customer activity be transformed into consistent retention reporting? | Curated analytical datasets, customer health reporting, cohort analysis, semantic modeling, executive KPIs, and API-enabled reporting. |
-| **Executive KPI Governance Platform** | How can business teams report the same KPIs consistently? | Standardized business metrics, KPI governance, reporting standards, semantic modeling, and executive scorecards. |
-| **Growth Funnel Performance Review** | How can acquisition and conversion be measured consistently across the funnel? | Governed funnel metrics, dimensional modeling, executive reporting, and recurring business reviews. |
-| **Marketplace Growth Performance Review** | How can marketplace performance be monitored across customers, sellers, and products? | Commercial reporting, marketplace KPIs, seller performance reporting, semantic modeling, and executive dashboards. |
+| **Customer Retention Intelligence Platform** | Customer lifecycle reporting | Curated analytical datasets, customer health reporting, cohort analysis, semantic modeling, API-enabled reporting, and executive KPIs. |
+| **Executive KPI Governance Platform** | Business performance reporting | Standardized KPI definitions, governed business metrics, reporting standards, executive scorecards, and semantic reporting models. |
+| **Growth Funnel Performance Review** | Acquisition and conversion reporting | Funnel analysis, governed business metrics, dimensional modeling, executive reporting, and recurring business reviews. |
+| **Marketplace Growth Performance Review** | Marketplace performance reporting | Customer, seller, and product reporting supported by curated analytical datasets, Power BI reporting, and business recommendations. |
 
 ---
 
-## Technical Foundation
+## Engineering Philosophy
 
-**Business Intelligence**  
-Power BI · DAX · Power Query
+Every repository follows the same reporting workflow.
 
-**Data Engineering**  
-SQL · Python · ETL · Data Validation
-
-**Analytical Modeling**  
-Dimensional Modeling · Semantic Modeling · KPI Governance
-
-**Engineering**  
-Git · GitHub · Business Documentation · Reporting Architecture
-
----
-
-## Recognition
-
-| Programme | Organisation | Year |
-|---|---|---|
-| Forward Program — Selected | McKinsey & Company | 2026 |
-| GenAI Academy APAC — Selected | Google | 2026 |
-| DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
-| Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
-| SQL | HackerRank | 2025 |
-| SQL 50 | LeetCode | 2026 |
-
----
-
-## Certifications
-
-Tata GenAI Powered Data Analytics — Forage · Deloitte Data Analytics — Forage · AWS Solutions Architecture — Forage · AI for Beginners — HP LIFE
-
----
-
-> Building production-style Business Intelligence reporting systems that transform operational data into governed analytical models for executive reporting and business decision-making.
-
-<p align="center">
-<a href="https://linkedin.com/in/kavyanjali-karan">LinkedIn</a> •
-<a href="mailto:karankavyanjali77@gmail.com">Email</a>
-</p>
+```text
+Operational Data
+        │
+        ▼
+SQL Transformation
+        │
+        ▼
+Python ETL & Data Validation
+        │
+        ▼
+Curated Analytical Datasets
+        │
+        ▼
+Dimensional Modeling
+        │
+        ▼
+Semantic Reporting
+        │
+        ▼
+Executive Reporting
 ```
+
+The objective is to organize business data into reporting systems that produce consistent, reusable business metrics instead of isolated dashboards.
