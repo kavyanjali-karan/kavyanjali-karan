@@ -64,3 +64,93 @@ Executive Reporting
 ```
 
 The objective is to organize business data into reporting systems that produce consistent, reusable business metrics instead of isolated dashboards.
+
+## Technical Foundation
+
+**Business Intelligence**  
+Power BI · DAX · Power Query
+
+**Data Engineering**  
+SQL · Python · ETL · Data Validation
+
+**Analytical Modeling**  
+Dimensional Modeling · Star Schema · KPI Governance · Semantic Modeling
+
+**Reporting & Documentation**  
+Executive Reporting · Business Documentation · Reporting Playbooks · Weekly Business Reviews
+
+**Tools**  
+Git · GitHub · VS Code · Jupyter Notebook
+
+---
+
+## What These Repositories Demonstrate
+
+Rather than presenting individual dashboards, each repository focuses on a different part of the Business Intelligence reporting lifecycle.
+
+- Designing reporting architectures around business requirements.
+- Transforming operational data into curated analytical datasets.
+- Building dimensional models for reusable reporting.
+- Defining governed business metrics and KPI standards.
+- Developing semantic reporting models in Power BI.
+- Supporting executive reporting with engineering documentation and reporting playbooks.
+
+Together, these repositories demonstrate how reporting systems are designed before they are visualized.
+
+---
+
+## Recognition
+
+| Programme | Organisation | Year |
+|---|---|---|
+| Forward Program — Selected | McKinsey & Company | 2026 |
+| GenAI Academy APAC — Selected | Google | 2026 |
+| DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
+| Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
+| SQL Certification | HackerRank | 2025 |
+| SQL 50 | LeetCode | 2026 |
+
+---
+
+## Certifications
+
+- Tata GenAI Powered Data Analytics — Forage
+- Deloitte Data Analytics Job Simulation — Forage
+- AWS Solutions Architecture Job Simulation — Forage
+- AI for Beginners — HP LIFE
+
+---
+
+## Currently Learning
+
+As I continue building Business Intelligence reporting systems, I'm deepening my understanding of:
+
+- Advanced SQL for analytical reporting
+- Data warehouse design
+- Power BI semantic models
+- KPI governance
+- Reporting architecture
+- Business metric design
+- Dimensional data modeling
+
+---
+## Looking Ahead
+
+I'm interested in Business Intelligence Engineering roles where reporting is treated as an engineering discipline rather than a visualization task. My current work focuses on designing reporting systems that organize operational data into trusted analytical models for executive reporting and business decision-making.
+
+I'm continuously expanding this portfolio by building reporting solutions across different business domains while strengthening my understanding of data warehousing, semantic modeling, and modern BI engineering practices.
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/kavyanjali-karan">LinkedIn</a> •
+  <a href="mailto:karankavyanjali77@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+Building production-style Business Intelligence reporting systems that transform operational data into governed analytical models for executive reporting and business decision-making.
+</p>
