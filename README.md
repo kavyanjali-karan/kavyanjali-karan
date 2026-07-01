@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kavyanjali-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karankavyanjali77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HackerRank_SQL-FFD700?style=flat&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/AWS SkillBuilder-FFD700?style=flat&logo=aws skillbuilder"/>
   <img src="https://img.shields.io/badge/McKinsey_Forward-Selected_2026-1A1A2E?style=flat"/>
   <img src="https://img.shields.io/badge/LeetCode_SQL_50-FDD700?style=flat&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Google_GenAI_APAC-Selected_2026-4285F4?style=flat"/>
@@ -20,7 +20,7 @@
 
 Business Intelligence starts long before dashboards.
 
-I'm a Computer Science student building production-style Business Intelligence reporting systems that transform operational data into reliable reporting assets through SQL transformation, Python ETL, dimensional modeling, KPI governance, semantic modeling, and engineering documentation.
+I'm a Computer Science student building production-style Business Intelligence platforms that transform operational data into governed analytical datasets using SQL, Python, dimensional modeling, KPI governance, semantic modeling, and engineering documentation.
 
 Across my repositories, the focus remains consistent: preparing trusted analytical datasets that support business metrics, executive reporting, and recurring business reviews. The dashboard is the final layer—not the starting point.
 
@@ -28,12 +28,14 @@ Across my repositories, the focus remains consistent: preparing trusted analytic
 
 ## Featured Repositories
 
-| Repository | Business Focus | Reporting Outcome |
-|---|---|---|
-| **Customer Retention Intelligence Platform** | Customer lifecycle reporting | Curated analytical datasets, customer health reporting, cohort analysis, semantic modeling, API-enabled reporting, and executive KPIs. |
-| **Executive KPI Governance Platform** | Business performance reporting | Standardized KPI definitions, governed business metrics, reporting standards, executive scorecards, and semantic reporting models. |
-| **Growth Funnel Performance Review** | Acquisition and conversion reporting | Funnel analysis, governed business metrics, dimensional modeling, executive reporting, and recurring business reviews. |
-| **Marketplace Growth Performance Review** | Marketplace performance reporting | Customer, seller, and product reporting supported by curated analytical datasets, Power BI reporting, and business recommendations. |
+| Repository                                   | Business Focus                        | Engineering Highlights                                                                                                                                                                                     |
+| -------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Customer Retention Intelligence Platform** | Customer lifecycle analytics          | Curated analytical datasets, customer health metrics, cohort analysis, semantic modeling, API-enabled reporting, and executive KPIs.                                                                       |
+| **Executive KPI Governance Platform**        | KPI governance & business metrics     | Standardized KPI definitions, governed business metrics, reporting standards, executive scorecards, and semantic modeling.                                                                                 |
+| **AWS Athena QuickSight Sales Analytics**    | Cloud Business Intelligence analytics | Serverless analytics using Amazon Athena, AWS Glue, Amazon S3, Python ETL, partitioned Parquet datasets, dimensional modeling, SQL analytics, data validation, and Amazon QuickSight executive dashboards. |
+| **Marketplace Growth Performance Review**    | Marketplace performance analytics     | Customer, seller, and product analytics supported by curated analytical datasets, Power BI dashboards, and business recommendations.                                                                       |
+| **Growth Funnel Performance Review**         | Acquisition & conversion analytics    | Funnel analysis, governed business metrics, dimensional modeling, executive reporting, and recurring business reviews.                                                                                     |
+
 
 ---
 
@@ -57,7 +59,7 @@ Curated Analytical Datasets
 Dimensional Modeling
         │
         ▼
-Semantic Reporting
+Semantic Layer
         │
         ▼
 Executive Reporting
@@ -86,7 +88,7 @@ Git · GitHub · VS Code · Jupyter Notebook
 
 ## What These Repositories Demonstrate
 
-Rather than presenting individual dashboards, each repository focuses on a different part of the Business Intelligence reporting lifecycle.
+Across five flagship repositories, each project focuses on a different stage of the Business Intelligence engineering lifecycle like from data preparation and KPI governance to cloud analytics, semantic modeling, and executive reporting.
 
 - Designing reporting architectures around business requirements.
 - Transforming operational data into curated analytical datasets.
@@ -103,21 +105,22 @@ Together, these repositories demonstrate how reporting systems are designed befo
 
 | Programme | Organisation | Year |
 |---|---|---|
-| Forward Program — Selected | McKinsey & Company | 2026 |
+| Forward Program — Completed | McKinsey & Company | 2026 |
 | GenAI Academy APAC — Selected | Google | 2026 |
 | DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
 | Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
-| SQL Certification | HackerRank | 2025 |
 | SQL 50 | LeetCode | 2026 |
 
 ---
 
 ## Certifications
 
+- Fundamentals of Analytics (Part 1) — AWS SkillBuilder
 - Tata GenAI Powered Data Analytics — Forage
 - Deloitte Data Analytics Job Simulation — Forage
 - AWS Solutions Architecture Job Simulation — Forage
 - AI for Beginners — HP LIFE
+
 
 ---
 
@@ -152,5 +155,5 @@ I'm continuously expanding this portfolio by building reporting solutions across
 ---
 
 <p align="center">
-Building production-style Business Intelligence reporting systems that transform operational data into governed analytical models for executive reporting and business decision-making.
+Building production-style Business Intelligence reporting systems that transform operational data into governed analytical models for business decision-making.
 </p>
