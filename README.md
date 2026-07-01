@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kavyanjali-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karankavyanjali77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS SkillBuilder-FFD700?style=flat&logo=aws skillbuilder"/>
+  <img src="https://img.shields.io/badge/AWS_Skill_Builder-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/McKinsey_Forward-Selected_2026-1A1A2E?style=flat"/>
   <img src="https://img.shields.io/badge/LeetCode_SQL_50-FDD700?style=flat&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Google_GenAI_APAC-Selected_2026-4285F4?style=flat"/>
