@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/AWS_Skill_Builder-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/McKinsey_Forward-Selected_2026-1A1A2E?style=flat"/>
   <img src="https://img.shields.io/badge/LeetCode_SQL_50-FDD700?style=flat&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Google_GenAI_APAC-Selected_2026-4285F4?style=flat"/>
 </p>
 
 ---
@@ -106,7 +105,6 @@ Together, these repositories demonstrate how reporting systems are designed befo
 | Programme | Organisation | Year |
 |---|---|---|
 | Forward Program — Completed | McKinsey & Company | 2026 |
-| GenAI Academy APAC — Selected | Google | 2026 |
 | DevTrails Hackathon — Seed 2 Qualifier | Guidewire Software | 2026 |
 | Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
 | SQL 50 | LeetCode | 2026 |
@@ -119,7 +117,6 @@ Together, these repositories demonstrate how reporting systems are designed befo
 - Tata GenAI Powered Data Analytics — Forage
 - Deloitte Data Analytics Job Simulation — Forage
 - AWS Solutions Architecture Job Simulation — Forage
-- AI for Beginners — HP LIFE
 
 
 ---
