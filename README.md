@@ -6,6 +6,16 @@ B.Tech Computer Science — ITER, SOA University (2027) · Bhubaneswar, India ·
 
 [LinkedIn](https://linkedin.com/in/kavyanjali-karan) · [Email](mailto:karankavyanjali77@gmail.com)
 
+<a href="https://github.com/kavyanjali-karan?tab=repositories">
+  <img src="assets/dashboard-strip.png" alt="Dashboards from my six repositories: AWS sales analytics, customer retention, KPI governance, growth funnel, marketplace revenue (INR), and CloudSweep" width="100%"/>
+</a>
+
+*Every tile above is rendered from the repository it links to — click through for the live, reproducible version.*
+
+---
+
+Other small assets: [AWS](assets/aws.png) · [Retention](assets/retention.png) · [KPI](assets/kpi.png) · [Funnel](assets/funnel.png) · [Marketplace](assets/marketplace.png) · [CloudSweep](assets/cloudsweep.png)
+
 ---
 
 ## The pattern across my repositories
