@@ -29,6 +29,7 @@ Every project answers one business question a stakeholder actually paid for, sho
 | "Was Electronics really the big category?" | ₹3.4B of ₹7.6B (44.8%) — verified order-level, not category-level | [Marketplace Growth Performance Review](https://github.com/kavyanjali-karan/Marketplace-Growth-Performance-Review) |
 | "Is a metric a number or a definition?" | 40 tests pin every executive metric to one governed definition | [Executive KPI Governance Platform](https://github.com/kavyanjali-karan/executive-kpi-governance-platform) |
 | "Can this pipeline replace a 3-hour monthly ritual?" | 52,000 rows → Parquet → Athena SQL → QuickSight, tested end to end | [AWS Athena QuickSight Sales Analytics](https://github.com/kavyanjali-karan/aws-athena-quicksight-sales-analytics) |
+| "How do you govern a revenue feed that disagrees with itself?" | 110,128 real TLC trips · 13.8% fare-reconciliation gap flagged, not cleaned away · signed refund adjustments kept separate from revenue | [NYC Taxi Revenue Intelligence](https://github.com/kavyanjali-karan/nyc-taxi-revenue-intelligence) |
 
 Every repository carries CI, a passing test suite, and dashboards regenerated from the same data the README quotes — the live page and the screenshots can't disagree.
 
