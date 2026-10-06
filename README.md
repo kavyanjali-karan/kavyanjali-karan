@@ -1,104 +1,33 @@
-<h1 align="center">Kavyanjali Karan</h1>
+# Kavyanjali Karan
 
-<p align="center">
-  <strong>Business Intelligence · SQL · Python · Power BI · Reporting Systems</strong><br/>
-  B.Tech Computer Science — ITER, SOA University (2027) · Bhubaneswar, India · Open to Relocate
-</p>
+**Business Intelligence · SQL · Python · Power BI · AWS**
 
-<p align="center">
-  <a href="https://linkedin.com/in/kavyanjali-karan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:karankavyanjali77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS_Skill_Builder-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/McKinsey_Forward-Selected_2026-1A1A2E?style=flat"/>
-  <img src="https://img.shields.io/badge/LeetCode_SQL_50-FDD700?style=flat&logo=leetcode"/>
-</p>
+B.Tech Computer Science — ITER, SOA University (2027) · Bhubaneswar, India · Open to Relocate
+
+[LinkedIn](https://linkedin.com/in/kavyanjali-karan) · [Email](mailto:karankavyanjali77@gmail.com)
 
 ---
 
-## What I Build
+## The pattern across my repositories
 
-Business Intelligence starts long before dashboards.
+Every project answers one business question a stakeholder actually paid for, shows the SQL and Python that produced the answer, and ships the numbers with tests. Ask any headline number in these READMEs where it came from, and the answer is a query, not a screenshot.
 
-I'm a Computer Science student building production-style Business Intelligence platforms that transform operational data into governed analytical datasets using SQL, Python, dimensional modeling, KPI governance, semantic modeling, and engineering documentation.
+| The business question | The number | The repo |
+|---|---|---|
+| "Which accounts do we save first?" | $54.27M churn vs $54.26M contraction — 50 accounts hold $611K ARR at risk | [Customer Retention Intelligence Platform](https://github.com/kavyanjali-karan/customer-retention-intelligence-platform) |
+| "Which funnel stage is leaking?" | 2,243,206 visitors → 15,613 paying = 0.70% visitor-to-paid | [Growth Funnel Performance Review](https://github.com/kavyanjali-karan/growth-funnel-performance-review) |
+| "Was Electronics really the big category?" | ₹3.4B of ₹7.6B (44.8%) — verified order-level, not category-level | [Marketplace Growth Performance Review](https://github.com/kavyanjali-karan/Marketplace-Growth-Performance-Review) |
+| "Is a metric a number or a definition?" | 40 tests pin every executive metric to one governed definition | [Executive KPI Governance Platform](https://github.com/kavyanjali-karan/executive-kpi-governance-platform) |
+| "Can this pipeline replace a 3-hour monthly ritual?" | 52,000 rows → Parquet → Athena SQL → QuickSight, tested end to end | [AWS Athena QuickSight Sales Analytics](https://github.com/kavyanjali-karan/aws-athena-quicksight-sales-analytics) |
 
-Across my repositories, the focus remains consistent: preparing trusted analytical datasets that support business metrics, executive reporting, and recurring business reviews. The dashboard is the final layer—not the starting point.
+Every repository carries CI, a passing test suite, and dashboards regenerated from the same data the README quotes — the live page and the screenshots can't disagree.
 
----
+## How the work is built
 
-## Featured Repositories
-
-| Repository                                   | Business Focus                        | Engineering Highlights                                                                                                                                                                                     |
-| -------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Customer Retention Intelligence Platform** | Customer lifecycle analytics          | Curated analytical datasets, customer health metrics, cohort analysis, semantic modeling, API-enabled reporting, and executive KPIs.                                                                       |
-| **Executive KPI Governance Platform**        | KPI governance & business metrics     | Standardized KPI definitions, governed business metrics, reporting standards, executive scorecards, and semantic modeling.                                                                                 |
-| **AWS Athena QuickSight Sales Analytics**    | Cloud Business Intelligence analytics | Serverless analytics using Amazon Athena, AWS Glue, Amazon S3, Python ETL, partitioned Parquet datasets, dimensional modeling, SQL analytics, data validation, and Amazon QuickSight executive dashboards. |
-| **Marketplace Growth Performance Review**    | Marketplace performance analytics     | Customer, seller, and product analytics supported by curated analytical datasets, Power BI dashboards, and business recommendations.                                                                       |
-| **Growth Funnel Performance Review**         | Acquisition & conversion analytics    | Funnel analysis, governed business metrics, dimensional modeling, executive reporting, and recurring business reviews.                                                                                     |
-
-
----
-
-## Engineering Philosophy
-
-Every repository follows the same reporting workflow.
-
-```text
-Operational Data
-        │
-        ▼
-SQL Transformation
-        │
-        ▼
-Python ETL & Data Validation
-        │
-        ▼
-Curated Analytical Datasets
-        │
-        ▼
-Dimensional Modeling
-        │
-        ▼
-Semantic Layer
-        │
-        ▼
-Executive Reporting
-```
-
-The objective is to organize business data into reporting systems that produce consistent, reusable business metrics instead of isolated dashboards.
-
-## Technical Foundation
-
-**Business Intelligence**  
-Power BI · DAX · Power Query
-
-**Data Engineering**  
-SQL · Python · ETL · Data Validation
-
-**Analytical Modeling**  
-Dimensional Modeling · Star Schema · KPI Governance · Semantic Modeling
-
-**Reporting & Documentation**  
-Executive Reporting · Business Documentation · Reporting Playbooks · Weekly Business Reviews
-
-**Tools**  
-Git · GitHub · VS Code · Jupyter Notebook
-
----
-
-## What These Repositories Demonstrate
-
-Across five flagship repositories, each project focuses on a different stage of the Business Intelligence engineering lifecycle like from data preparation and KPI governance to cloud analytics, semantic modeling, and executive reporting.
-
-- Designing reporting architectures around business requirements.
-- Transforming operational data into curated analytical datasets.
-- Building dimensional models for reusable reporting.
-- Defining governed business metrics and KPI standards.
-- Developing semantic reporting models in Power BI.
-- Supporting executive reporting with engineering documentation and reporting playbooks.
-
-Together, these repositories demonstrate how reporting systems are designed before they are visualized.
-
----
+- **Governed before visualized:** metrics are defined once in a dictionary or semantic layer, then every query, DAX measure, and chart reads from it.
+- **Verified numbers:** each README's figures reconcile against the raw CSVs committed in the repo — the retention splits, the funnel counts, and the marketplace revenue were all reproduced from source data.
+- **Reproducible by a stranger:** `pip install -r requirements.txt` and one script rebuilds the data, the tests, and the dashboards. Seeded generation, no manual steps.
+- **Simulated data, real pipeline:** the datasets are labelled simulated and the engineering is production-style — the same discipline with real data, without anyone's customer records.
 
 ## Recognition
 
@@ -109,8 +38,6 @@ Together, these repositories demonstrate how reporting systems are designed befo
 | Techgium — National Round 2 Qualifier | L&T Technology Services | 2025 |
 | SQL 50 | LeetCode | 2026 |
 
----
-
 ## Certifications
 
 - Fundamentals of Analytics (Part 1) — AWS SkillBuilder
@@ -118,39 +45,6 @@ Together, these repositories demonstrate how reporting systems are designed befo
 - Deloitte Data Analytics Job Simulation — Forage
 - AWS Solutions Architecture Job Simulation — Forage
 
-
 ---
 
-## Currently Learning
-
-As I continue building Business Intelligence reporting systems, I'm deepening my understanding of:
-
-- Advanced SQL for analytical reporting
-- Data warehouse design
-- Power BI semantic models
-- KPI governance
-- Reporting architecture
-- Business metric design
-- Dimensional data modeling
-
----
-## Looking Ahead
-
-I'm interested in Business Intelligence Engineering roles where reporting is treated as an engineering discipline rather than a visualization task. My current work focuses on designing reporting systems that organize operational data into trusted analytical models for executive reporting and business decision-making.
-
-I'm continuously expanding this portfolio by building reporting solutions across different business domains while strengthening my understanding of data warehousing, semantic modeling, and modern BI engineering practices.
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/kavyanjali-karan">LinkedIn</a> •
-  <a href="mailto:karankavyanjali77@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-Building production-style Business Intelligence reporting systems that transform operational data into governed analytical models for business decision-making.
-</p>
+[LinkedIn](https://linkedin.com/in/kavyanjali-karan) · [Email](mailto:karankavyanjali77@gmail.com)
